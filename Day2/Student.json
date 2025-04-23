@@ -1,0 +1,32 @@
+[
+    {
+        "rollno": 1,
+        "name": "Himanshu Chauhan",
+        "class": "10",
+        "section": "A"
+    },
+    {
+        "rollno": 2,
+        "name": "Swati Rai",
+        "class": "10",
+        "section": "B"
+    },
+    {
+        "rollno": 3,
+        "name": "Himanshu Chaudhary",
+        "class": "9",
+        "section": "A"
+    },
+    {
+        "rollno": 4,
+        "name": "Nirdosh Singh",
+        "class": "9",
+        "section": "C"
+    },
+    {
+        "rollno": 5,
+        "name": "Harsh Dagar",
+        "class": "8",
+        "section": "B"
+    }
+]
